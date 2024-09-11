@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IR Blaster Windows Program", "IR Blaster Windows Program.vbproj", "{B2B6F816-8EFE-4CC6-8A3B-31C5195C58D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B6F816-8EFE-4CC6-8A3B-31C5195C58D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B6F816-8EFE-4CC6-8A3B-31C5195C58D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B6F816-8EFE-4CC6-8A3B-31C5195C58D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B6F816-8EFE-4CC6-8A3B-31C5195C58D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C211CF24-B38F-4E01-B31D-3494D996B6BE}
+	EndGlobalSection
+EndGlobal
